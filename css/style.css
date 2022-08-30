@@ -1,0 +1,31 @@
+/* .hr{
+    width: 2px;
+    height: 100vh;
+    background-color: black;
+    margin-top: -250px;
+    margin-left: 600px;
+    position: fixed;
+    top: 0px;
+} */
+.opt{
+    position: sticky;
+    top: 0;
+}
+.buttons{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 5px;
+}
+
+.ustiga{
+    position: sticky;
+    top: 0;
+}
+
+.title{
+    margin-left: 800px;
+    /* margin-top: 60px; */
+}
